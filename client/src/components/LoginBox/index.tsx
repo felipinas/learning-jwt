@@ -6,8 +6,8 @@ export const LoginBox = () => {
             <h1>Login</h1>
 
             <form>
-                <label htmlFor="name">Name</label>                
-                <input type="text" id="name" autoComplete="off"/>
+                <label htmlFor="email">Email</label>                
+                <input type="email" id="email" autoComplete="off"/>
 
                 <label htmlFor="password">Password</label>
                 <input type="password" id="password" />
